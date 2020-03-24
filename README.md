@@ -11,4 +11,4 @@ A simple browser game. You need to kill a goblin.
 
 Do your best!
 
-Try it on [GitHub Pages](https://solarlime.github.io/ahj-homework-3.1/)
+Try it on [GitHub Pages](https://solarlime.github.io/ahj-homework-3.1/)!
