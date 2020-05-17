@@ -1,5 +1,5 @@
 {
-  "name": "ahj-homework-3.1",
+  "name": "kill-that-guy",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/solarlime/ahj-homework-3.1.git"
+    "url": "git+https://github.com/solarlime/kill-that-guy.git"
   },
   "author": "solarlime",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/solarlime/ahj-homework-3.1/issues"
+    "url": "https://github.com/solarlime/kill-that-guy/issues"
   },
-  "homepage": "https://github.com/solarlime/ahj-homework-3.1#readme",
+  "homepage": "https://github.com/solarlime/kill-that-guy#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.8.4",
